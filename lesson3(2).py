@@ -5,6 +5,6 @@
 def my_func(name, surname, birthday, city, email, phonenumber):
     return [name, surname, birthday, city, email, phonenumber]
 
-
-print(my_func(name='Richard', surname='Branson', birthday='18.07.1950', city='London', email='rb@virgin.uk',
-              phonenumber='+14351353135'))
+print(
+    f'{(input("enter name "), input("enter surname "), int(input("enter birthday ")), input("enter city "), input("enter email "), int(input("enter phonenumber ")))}'
+      )
