@@ -1,6 +1,0 @@
-Petrov 19000
-Sidorov 45000
-Fedorov 25000
-Gumbert 15000
-Herbert 18000
-Trifonov 19000
